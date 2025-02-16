@@ -7,3 +7,8 @@ For Ubuntu/Debian users:
 sudo apt update
 sudo apt install curl wget docker.io docker-compose docker-compose-plugin -y
 ```
+## Configs
+### Home Server
+Install: [index.sh](home-server/index.sh)
+
+Display Ports: [ports.sh](home-server/ports.sh)
